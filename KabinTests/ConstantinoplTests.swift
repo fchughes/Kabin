@@ -1,14 +1,14 @@
 //
-//  ConstantinoplTests.swift
-//  ConstantinoplTests
+//  KabinTests.swift
+//  KabinTests
 //
 //  Created by Forest Hughes on 7/17/23.
 //
 
 import XCTest
-@testable import Constantinopl
+@testable import Kabin
 
-final class ConstantinoplTests: XCTestCase {
+final class KabinTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

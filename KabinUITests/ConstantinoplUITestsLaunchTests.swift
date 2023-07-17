@@ -1,13 +1,13 @@
 //
-//  ConstantinoplUITestsLaunchTests.swift
-//  ConstantinoplUITests
+//  KabinUITestsLaunchTests.swift
+//  KabinUITests
 //
 //  Created by Forest Hughes on 7/17/23.
 //
 
 import XCTest
 
-final class ConstantinoplUITestsLaunchTests: XCTestCase {
+final class KabinUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
