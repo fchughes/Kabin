@@ -48,7 +48,7 @@
 		08428B702A659BF10002AD9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		08428B712A65A4210002AD9D /* EventTapManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventTapManager.swift; sourceTree = "<group>"; };
 		08428B732A65A4540002AD9D /* ScreenshotManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenshotManager.swift; sourceTree = "<group>"; };
-		08428B752A6604110002AD9D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		08428B782A66096B0002AD9D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,7 +79,7 @@
 		08428B392A659A550002AD9D = {
 			isa = PBXGroup;
 			children = (
-				08428B752A6604110002AD9D /* README.md */,
+				08428B782A66096B0002AD9D /* README.md */,
 				08428B442A659A550002AD9D /* Kabin */,
 				08428B562A659A570002AD9D /* KabinTests */,
 				08428B602A659A570002AD9D /* KabinUITests */,

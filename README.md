@@ -1,3 +1,5 @@
+<img src="./Kabin/Assets.xcassets/AppIcon.appiconset/kabin_logo_2_512_png.png" alt="Kabin Logo" style="display: inline-block; margin: 0; max-width: 128px">
+
 # Kabin
 
 Kabin is an AI-powered macOS tool that generates documentation and scripts from screen recordings and user input captures. Say you've got some tedious task that you or someone else needs to perform again in the future, you could write down all the steps to retrace your steps later, you could write a script that performs the task for you, or you could let Kabin watch you as you do the task and kick back as it spits out documentation and scripts.
@@ -9,5 +11,3 @@ Select a folder to store your new task and click "Record"; Kabin will record you
 ## How it Works
 
 Kabin records user keyboard and mouse inputs, taking a screenshot, tagged with the time, pressed key, and open application info. When users click "Generate" we parse this information, packaging it up into something an LLM like GPT can digest. The language model spits out the documentation and generates code which is able to reproduce the actions taken by the user.
-
-
