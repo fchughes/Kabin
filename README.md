@@ -1,4 +1,4 @@
-<img src="./Kabin/Assets.xcassets/AppIcon.appiconset/kabin_logo_2_512_png.png" alt="Kabin Logo" style="display: inline-block; margin: 0; max-width: 128px">
+<img src="./Kabin/Assets.xcassets/AppIcon.appiconset/kabin_logo_2_512_png.png" alt="Kabin Logo" width=128>
 
 # Kabin
 
